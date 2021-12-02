@@ -1,0 +1,33 @@
+{
+   "customers":[
+      {
+         "first_name":"Stan",
+         "last_name":"Lee",
+         "email":"stan.lee@example.com",
+         "phone_number":"0438-376-652"
+      },
+      {
+         "first_name":"Bruce ",
+         "last_name":"Banner",
+         "email":"Bruce.Banner@example.com",
+         "phone_number":"999999"
+      },
+      {
+         "first_name":"Natalia",
+         "last_name":"Romanova",
+         "email":"Natalia.Romanova@example.com",
+         "phone_number":"999999"
+      },
+      {
+         "first_name":"Steven",
+         "last_name":"Rogers",
+         "email":"Steven.Rogers@example.com",
+         "phone_number":"999999"
+      },
+      {
+         "first_name":"Tony ",
+         "last_name":"Stark",
+         "email":"Tony.Stark@example.com",
+         "phone_number":"999999"
+      }
+   ]
